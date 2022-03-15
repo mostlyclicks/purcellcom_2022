@@ -4,6 +4,7 @@ import Footer from './Footer'
 
 const Layout = ({children}) => {
   return (
+    
     <div style={{border:'1px solid red'}}>
       <Header />
       {children}
